@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_From DateApril2025SMTWTFS12345678910111_ab968a</name>
+   <tag></tag>
+   <elementGuidId>c2381b3f-80ec-4ddc-949a-e516dbf4262c</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='app']/div/div[2]/div[2]/div/div[2]/form/div[2]/div</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>f3935b42-3069-4d99-9732-004271857b52</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>oxd-grid-4 orangehrm-full-width-grid</value>
+      <webElementGuid>1339f7b9-5ee6-4fd8-a771-d368ef08941f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>From DateApril2025SMTWTFS123456789101112131415161718192021222324252627282930TodayClearCloseShould be a valid date in yyyy-mm-dd formatTo DateIncludeCurrent Employees Only</value>
+      <webElementGuid>c42fda6a-1c0d-4bc2-abde-c9bf6953a3a4</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;app&quot;)/div[@class=&quot;oxd-layout orangehrm-upgrade-layout&quot;]/div[@class=&quot;oxd-layout-container&quot;]/div[@class=&quot;oxd-layout-context&quot;]/div[@class=&quot;oxd-table-filter&quot;]/div[@class=&quot;oxd-table-filter-area&quot;]/form[@class=&quot;oxd-form&quot;]/div[@class=&quot;oxd-form-row&quot;]/div[@class=&quot;oxd-grid-4 orangehrm-full-width-grid&quot;]</value>
+      <webElementGuid>d1481e7c-9696-4a32-9205-037864102750</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='app']/div/div[2]/div[2]/div/div[2]/form/div[2]/div</value>
+      <webElementGuid>71e206e1-c5de-4122-8355-d34cdb4dc6d4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='-- Select --'])[2]/following::div[3]</value>
+      <webElementGuid>9a7a2f1d-47b7-4431-a095-6829c5217d36</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Status'])[1]/following::div[7]</value>
+      <webElementGuid>f4f29a50-f7c7-4e9e-a608-a81dcaae0be9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//form/div[2]/div</value>
+      <webElementGuid>63fc45d5-606c-4a1f-bba9-1e1c43c53a4f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'From DateApril2025SMTWTFS123456789101112131415161718192021222324252627282930TodayClearCloseShould be a valid date in yyyy-mm-dd formatTo DateIncludeCurrent Employees Only' or . = 'From DateApril2025SMTWTFS123456789101112131415161718192021222324252627282930TodayClearCloseShould be a valid date in yyyy-mm-dd formatTo DateIncludeCurrent Employees Only')]</value>
+      <webElementGuid>c4b7df3f-e84d-42ba-8728-d9e06524705a</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
